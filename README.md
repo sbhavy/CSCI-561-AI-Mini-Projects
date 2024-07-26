@@ -1,5 +1,5 @@
 # CSCI-561-AI-Mini-Projects
-Compilation of AI Mini Projects completed as a part of the course CSCI 561, Foundations of Artificial Intelligence (Prof. Laurent Itti, Spring 2024)
+Compilation of AI Mini Projects completed as a part of the course CSCI 561, Foundations of Artificial Intelligence (Prof. Laurent Itti, Spring 2024). Each folder contains the homework code file and a problem statement PDF.
 
 **Homework 1** involves the implementation of Breadth-First Search (BFS), Uniform-Cost Search (UCS), and A* search in C++ for a custom problem, i.e. motion of a rover on Martian soil. Special consideration is given to the surface elevation and the laws that govern the vertical movement of the rover. In all 3 search algorithms, an optimal path is returned.
 
